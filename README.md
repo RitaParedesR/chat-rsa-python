@@ -55,8 +55,8 @@ El proyecto demuestra empíricamente la aplicación de la **teoría de números*
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/RitaParedesR/Chat-RSA.git
-   cd Chat-RSA
+   git clone https://github.com/RitaParedesR/chat-rsa-python.git
+   cd chat-rsa-python
    ```
 
 2. **Iniciar el Servidor (Terminal 1):**
