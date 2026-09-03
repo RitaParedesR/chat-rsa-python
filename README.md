@@ -74,12 +74,8 @@ El proyecto demuestra empíricamente la aplicación de la **teoría de números*
 4. **¡Chatear!** Al conectarse, ambos programas realizarán automáticamente el intercambio de claves públicas (*handshake*). Escribe `salir` en cualquiera de las terminales para finalizar la sesión de forma segura.
 
 
-##  Autoras
-
-* **Castro Ortiz Emily** — [emicastr@espol.edu.ec](mailto:emicastr@espol.edu.ec)
-* **Guevara Cruz Nicole** — [nicgcruz@espol.edu.ec](mailto:nicgcruz@espol.edu.ec)
+##  Autor
 * **Paredes Robalino Rita** — [ritapare@espol.edu.ec](mailto:ritapare@espol.edu.ec)
-* **Sarmiento Mendoza Ariana** — [arisarmi@espol.edu.ec](mailto:arisarmi@espol.edu.ec)
 
 **Docente:** Ph.D. Ebner Pineda Mogollón  
 **Materia:** Matemáticas Discretas (Paralelo 5)  
